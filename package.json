@@ -1,4 +1,6 @@
 {
+  "name": "go_module_test",
+  "version": "0.1.0",
   "type": "module",
   "devDependencies": {
     "@commitlint/config-conventional": "^19.5.0",
